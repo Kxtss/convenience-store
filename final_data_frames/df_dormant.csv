@@ -1,0 +1,68 @@
+﻿Product,Quantity_Wednesday_25_March,Price,Quantity_Thursday_26_March,Purchased_Friday_27_March,Purchased_Tuesday_31_March,Removed_Tuesday_31_March,Quantity_Wednesday_1_April,Purchased_Thursday_2_April,Removed_Thursday_2_April,Quantity_Monday_6_April,sales_Quantity_Wednesday_25_March_to_Quantity_Thursday_26_March,sales_Quantity_Thursday_26_March_to_Quantity_Wednesday_1_April,sales_Quantity_Wednesday_1_April_to_Quantity_Monday_6_April,Category,purchase_price,price_source,unit_profit,total_sold,total_profit,dormant_capital,no_sales
+Seditas,5,20,5,0,0,0,5,0,0,5,0,0,0,Limpieza,17.39,Estimated,2.61,0,0.0,86.95,True
+Kleenex servitoalla,1,35,1,0,0,0,1,0,0,1,0,0,0,Papel,30.43,Estimated,4.57,0,0.0,30.43,True
+Veladora limonerito,41,12,41,0,0,0,41,0,0,41,0,0,0,Velas,10.43,Estimated,1.57,0,0.0,427.63,True
+Semanal (1/2) grande,5,45,5,0,0,0,5,0,0,5,0,0,0,Velas,39.13,Estimated,5.87,0,0.0,195.65,True
+Blanca Nieves 250g,10,11,10,0,0,0,10,0,0,10,0,0,0,Limpieza,9.57,Estimated,1.43,0,0.0,95.7,True
+Vogue 600 hojas 6 rollos,4,60,4,0,0,0,4,0,0,4,0,0,0,Papel,52.17,Estimated,7.83,0,0.0,208.68,True
+Salvo 900ml,3,50,3,0,0,0,3,0,0,3,0,0,0,Limpieza,43.48,Estimated,6.52,0,0.0,130.44,True
+Salvo 215ml,11,16,11,0,0,0,11,0,0,11,0,0,0,Limpieza,13.91,Estimated,2.09,0,0.0,153.01,True
+Cangrejo,3,62,3,0,0,0,3,0,0,3,0,0,0,Dulces,53.91,Estimated,8.09,0,0.0,161.73,True
+Pecositas,3,68,3,0,0,0,3,0,0,3,0,0,0,Dulces,59.13,Estimated,8.87,0,0.0,177.39,True
+Winis mini,3,60,3,0,0,0,3,0,0,3,0,0,0,Dulces,52.17,Estimated,7.83,0,0.0,156.51,True
+Winis unicornio,3,32,3,0,0,0,3,0,0,3,0,0,0,Dulces,27.83,Estimated,4.17,0,0.0,83.49,True
+Frutaffy fresa 24pz,2,30,2,3,0,0,5,0,0,5,0,0,0,Dulces,25.2,Ticket,4.8,0,0.0,126.0,True
+Lucas gusano 10pz,2,80,2,3,0,0,5,0,0,5,0,0,0,Dulces,71.3,Ticket,8.7,0,0.0,356.5,True
+Monedas nucita 48pz,2,80,2,0,0,0,2,0,0,2,0,0,0,Dulces,69.57,Estimated,10.43,0,0.0,139.14,True
+Jugos sabo 12pz,3,35,3,0,0,0,3,0,0,3,0,0,0,Dulces,30.43,Estimated,4.57,0,0.0,91.29,True
+Mac'Ma selecciones,3,80,3,0,0,0,3,0,0,3,0,0,0,Dulces,69.57,Estimated,10.43,0,0.0,208.71,True
+Mac'Ma pícolo,4,48,4,0,0,0,4,0,0,4,0,0,0,Dulces,41.74,Estimated,6.26,0,0.0,166.96,True
+Mac'Ma parisién,3,50,3,0,0,0,3,0,0,3,0,0,0,Dulces,43.48,Estimated,6.52,0,0.0,130.44,True
+Mac'Ma presidente,3,82,3,0,0,0,3,0,0,3,0,0,0,Dulces,71.3,Estimated,10.7,0,0.0,213.9,True
+Mac'Ma abanico,5,60,5,0,0,0,5,0,0,5,0,0,0,Dulces,52.17,Estimated,7.83,0,0.0,260.85,True
+Mac'Ma caja pequeña barquillos,7,30,7,0,0,0,7,0,0,7,0,0,0,Dulces,26.09,Estimated,3.91,0,0.0,182.63,True
+Mac'Ma caja pequeña doncellas,1,30,1,0,0,0,1,0,0,1,0,0,0,Dulces,26.09,Estimated,3.91,0,0.0,26.09,True
+Mac'Ma caja pequeña natta,3,30,3,0,0,0,3,0,0,3,0,0,0,Dulces,26.09,Estimated,3.91,0,0.0,78.27,True
+Mac'Ma caja pequeña fresa,1,30,1,0,0,0,1,0,0,1,0,0,0,Dulces,26.09,Estimated,3.91,0,0.0,26.09,True
+Bocadín 50pz,2,32,2,0,0,0,2,0,0,2,0,0,0,Dulces,27.83,Estimated,4.17,0,0.0,55.66,True
+Luminiscente rojo,1,78,1,0,0,0,1,0,0,1,0,0,0,Dulces,67.83,Estimated,10.17,0,0.0,67.83,True
+Pop trueno,2,42,2,0,0,0,2,0,0,2,0,0,0,Dulces,36.52,Estimated,5.48,0,0.0,73.04,True
+Pica fresa,0,58,0,0,0,0,0,0,0,0,0,0,0,Dulces,50.43,Estimated,7.57,0,0.0,0.0,True
+Mazapán original grande,5,92,5,0,0,0,5,0,0,5,0,0,0,Dulces,80.0,Estimated,12.0,0,0.0,400.0,True
+Mazapan original pequeño,1,40,1,0,0,0,1,0,0,1,0,0,0,Dulces,34.78,Estimated,5.22,0,0.0,34.78,True
+Bombones grandes,2,40,2,0,0,0,2,0,0,2,0,0,0,Dulces,34.78,Estimated,5.22,0,0.0,69.56,True
+Bombones enrollados,1,40,1,0,0,0,1,0,0,1,0,0,0,Dulces,34.78,Estimated,5.22,0,0.0,34.78,True
+Bombones fresita,3,40,3,0,0,0,3,0,0,3,0,0,0,Dulces,34.78,Estimated,5.22,0,0.0,104.34,True
+Bombones ositos conejos pollitos,3,40,3,0,0,0,3,0,0,3,0,0,0,Dulces,34.78,Estimated,5.22,0,0.0,104.34,True
+Bombones corazón,2,40,2,0,0,0,2,0,0,2,0,0,0,Dulces,34.78,Estimated,5.22,0,0.0,69.56,True
+Tarrito,2,72,2,0,0,0,2,0,0,2,0,0,0,Dulces,62.61,Estimated,9.39,0,0.0,125.22,True
+Paleta sandía,1,44,1,0,0,0,1,0,0,1,0,0,0,Dulces,38.26,Estimated,5.74,0,0.0,38.26,True
+Paleta Pollito,3,42,3,0,0,0,3,0,0,3,0,0,0,Dulces,36.52,Estimated,5.48,0,0.0,109.56,True
+Paleta coca,4,52,4,0,0,0,4,0,0,4,0,0,0,Dulces,45.22,Estimated,6.78,0,0.0,180.88,True
+Paleta hueso,11,44,11,0,0,0,11,0,0,11,0,0,0,Dulces,38.26,Estimated,5.74,0,0.0,420.86,True
+Kranky,1,92,1,0,0,0,1,0,0,1,0,0,0,Dulces,80.0,Estimated,12.0,0,0.0,80.0,True
+Aciditos,0,54,0,0,0,0,0,0,0,0,0,0,0,Dulces,46.96,Estimated,7.04,0,0.0,0.0,True
+Pelón mini,3,58,3,0,0,0,3,0,0,3,0,0,0,Dulces,50.43,Estimated,7.57,0,0.0,151.29,True
+Malvabony,3,86,3,0,0,0,3,0,0,3,0,0,0,Dulces,74.78,Estimated,11.22,0,0.0,224.34,True
+Ice,1,149,1,0,0,0,1,0,0,1,0,0,0,Dulces,129.57,Estimated,19.43,0,0.0,129.57,True
+Bubbaloo plátano,1,45,1,1,0,0,2,0,0,2,0,0,0,Dulces,40.2,Ticket,4.8,0,0.0,80.4,True
+Bianchi amarillo,2,100,2,0,0,0,2,0,0,2,0,0,0,Dulces,86.96,Estimated,13.04,0,0.0,173.92,True
+Bianchi café,1,88,1,0,0,0,1,0,0,1,0,0,0,Dulces,76.52,Estimated,11.48,0,0.0,76.52,True
+Chocoreta,2,82,2,0,0,0,2,0,0,2,0,0,0,Dulces,71.3,Estimated,10.7,0,0.0,142.6,True
+Sol nachos extremo,17,16,17,0,0,2,19,0,2,21,0,0,0,Botanas,13.91,Estimated,2.09,0,0.0,292.11,True
+Solchesito dedito,11,10,11,0,0,0,11,0,0,11,0,0,0,Botanas,8.7,Estimated,1.3,0,0.0,95.7,True
+Solchesitos dedito,5,10,5,0,0,2,7,0,0,7,0,0,0,Botanas,8.7,Estimated,1.3,0,0.0,60.9,True
+Turín avellana,3,150,3,0,0,0,3,0,0,3,0,0,0,Chocolates,130.43,Estimated,19.57,0,0.0,391.29,True
+Turín fresa,1,150,1,0,0,0,1,0,0,1,0,0,0,Chocolates,130.43,Estimated,19.57,0,0.0,130.43,True
+Turín original,1,150,1,0,0,0,1,0,0,1,0,0,0,Chocolates,130.43,Estimated,19.57,0,0.0,130.43,True
+Giselle 160g 16pz,3,65,3,0,0,0,3,0,0,3,0,0,0,Chocolates,56.52,Estimated,8.48,0,0.0,169.56,True
+Giselle 100g,1,44,1,0,0,0,1,0,0,1,0,0,0,Chocolates,38.26,Estimated,5.74,0,0.0,38.26,True
+Vallmond corazón mediano 8pz,3,45,3,0,0,0,3,0,0,3,0,0,0,Chocolates,39.13,Estimated,5.87,0,0.0,117.39,True
+Colosseo corazón pequeño 31g,2,35,2,0,0,0,2,0,0,2,0,0,0,Chocolates,30.43,Estimated,4.57,0,0.0,60.86,True
+Kiss grande 41.5g,3,30,3,0,0,0,3,0,0,3,0,0,0,Chocolates,26.09,Estimated,3.91,0,0.0,78.27,True
+Kisses 76g,2,65,2,0,0,0,2,0,0,2,0,0,0,Chocolates,56.52,Estimated,8.48,0,0.0,113.04,True
+Picard chocolate tequila,1,72,1,0,0,0,1,0,0,1,0,0,0,Chocolates,62.61,Estimated,9.39,0,0.0,62.61,True
+Picard chocolate licor de café,1,72,1,0,0,0,1,0,0,1,0,0,0,Chocolates,62.61,Estimated,9.39,0,0.0,62.61,True
+Gatucos 240g,2,110,2,0,0,0,2,0,0,2,0,0,0,Chocolates,95.65,Estimated,14.35,0,0.0,191.3,True
+Ferrero 24pz 300g,2,240,2,0,0,0,2,0,0,2,0,0,0,Chocolates,208.7,Estimated,31.3,0,0.0,417.4,True
+M&M's 6 pack,1,0,1,0,0,0,1,0,0,1,0,0,0,Chocolates,0.0,Estimated,0.0,0,0.0,0.0,True
